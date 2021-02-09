@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AI_pathfinder/static/css/main.02c6f0ea.chunk.css",
+    "main.js": "/AI_pathfinder/static/js/main.86fbbed9.chunk.js",
+    "main.js.map": "/AI_pathfinder/static/js/main.86fbbed9.chunk.js.map",
+    "runtime-main.js": "/AI_pathfinder/static/js/runtime-main.199b08d7.js",
+    "runtime-main.js.map": "/AI_pathfinder/static/js/runtime-main.199b08d7.js.map",
+    "static/js/2.1d497645.chunk.js": "/AI_pathfinder/static/js/2.1d497645.chunk.js",
+    "static/js/2.1d497645.chunk.js.map": "/AI_pathfinder/static/js/2.1d497645.chunk.js.map",
+    "index.html": "/AI_pathfinder/index.html",
+    "static/css/main.02c6f0ea.chunk.css.map": "/AI_pathfinder/static/css/main.02c6f0ea.chunk.css.map",
+    "static/js/2.1d497645.chunk.js.LICENSE.txt": "/AI_pathfinder/static/js/2.1d497645.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.199b08d7.js",
+    "static/js/2.1d497645.chunk.js",
+    "static/css/main.02c6f0ea.chunk.css",
+    "static/js/main.86fbbed9.chunk.js"
+  ]
+}
